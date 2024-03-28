@@ -4,7 +4,7 @@
   "description": "Receipe Application",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --distr-dir ./dist"
+    "build": "parcel build index.html"
   },
   "author": "Bishal",
   "license": "ISC",
