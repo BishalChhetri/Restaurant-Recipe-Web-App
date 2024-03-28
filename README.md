@@ -26,3 +26,4 @@ npm install
 npm run build
 npm run start
 ```
+This command starts the Next.js server, allowing you to access the Airbnb clone web application at localhost:1234 in your web browser.
